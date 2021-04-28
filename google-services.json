@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782261957368",
+    "project_id": "yourlocusapps-60d50",
+    "storage_bucket": "yourlocusapps-60d50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782261957368:android:465f61031e5b5ee10e810d",
+        "android_client_info": {
+          "package_name": "com.thelocus.yourlocusapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782261957368-bvv15tfgu5naedhor5b4t07v00dffoi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKYXwC0n0vxVmh0yEA64fF46VSJ-aBaL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782261957368-bvv15tfgu5naedhor5b4t07v00dffoi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

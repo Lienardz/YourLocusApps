@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">YourLocusApps</string>
+    <string name="welcome">Welcome</string>
+    <string name="logos">TODO</string>
+    <string name="welcomes">Welcome</string>
+    <string name="buttons">TODO</string>
+    <string name="arrow">TODO</string>
+    <string name="Arrow">TODO</string>
+    <string name="arrows">TODO</string>
+    <string name="signIn">Already have an Account? Login</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="or">Or</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="name">Name</string>
+    <string name="company_s_name">Company\'s Name</string>
+    <string name="your_birthday">Your Birthday</string>
+    <string name="emails">Email</string>
+    <string name="passwords">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="logout">Logout</string>
+    <string name="add">Add</string>
+    <string name="todo">TODO</string>
+    <string name="product_description">Product Description</string>
+</resources>
